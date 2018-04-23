@@ -1,3 +1,6 @@
 [submodule "TileGame"]
 	path = TileGame
 	url = ../TileGame/
+[submodule "testrepo"]
+	path = testrepo
+	url = ../testrepo/
